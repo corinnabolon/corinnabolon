@@ -1,15 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Corinna
 
-- 🔭 I’m currently working on rewriting some of my bootcamp projects in a new framework!
+I'm a Full-Stack software developer and here are my projects! I attended an intensive 13-week Bootcamp at Boise Codeworks in Fall of 2023 and now I am continuing to learn.
+- 🔭 I’m currently working on rewriting some of my bootcamp projects in a new framework
 - 🌱 I’m currently learning Python🐍
 - 💬 Ask me anything about life in Japan🇯🇵 I lived in Hokkaido for 17 years.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: My favorite musical is "Chess" but only the 1984 version.
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corinnabolon&show_icons=true&theme=dark&locale=en&layout=compact" alt="arrmata" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corinnabolon&show_icons=true&theme=dark&locale=en" alt="arrmata" /></p>
+- 📫 I'd be happy to connect <a href="https://www.linkedin.com/in/corinna-bolon-690003297/">on LinkedIn</a>!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corinnabolon&theme=dark" alt="arrmata" /></p>
 
