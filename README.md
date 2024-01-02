@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on rewriting some of my bootcamp projects in a new framework!
+- 🌱 I’m currently learning Python🐍
+- 💬 Ask me anything about life in Japan🇯🇵 I lived in Hokkaido for 17 years.
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: My favorite musical is "Chess" but only the 1984 version.
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=corinnabolon&show_icons=true&theme=dark&locale=en&layout=compact" alt="arrmata" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corinnabolon&show_icons=true&theme=dark&locale=en" alt="arrmata" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corinnabolon&theme=dark" alt="arrmata" /></p>
+
 <!--
 **corinnabolon/corinnabolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
