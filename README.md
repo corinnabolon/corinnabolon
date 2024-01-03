@@ -1,4 +1,4 @@
-<img src="https://github.com/corinnabolon/corinnabolon/blob/main/corinna.svg">
+<img src="https://github.com/corinnabolon/corinnabolon/blob/main/corinna.png">
 
 ### Hi there 👋 I'm Corinna, and welcome to my GitHub!
 
